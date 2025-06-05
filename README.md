@@ -37,6 +37,3 @@ Generate:
 - [https://github.com/Shruti-panchal]
 
 ---
-
-🚀 **Would you like additional refinements or formatting adjustments?**  
-Let me know if you need adjustments based on assessment guidelines! 😃
