@@ -6,8 +6,10 @@ This Python-based automation extracts employee performance data from an Excel fi
 ## Project Structure
 -`performance_analysis.ipynb` - Core script for loading data, processing, calculating metrics, and generating visualizations.
 - `requirements.txt` - List of dependencies for reproducibility.
-- `solution_architecture.png` - High-level flow diagram illustrating data pipeline and processing.
+- `Solution_Architecture.png` - High-level flow diagram illustrating data pipeline and processing.
 - `Dummy_Data.xlsx` - Sample dataset used for performance scoring.
+- `Final_Performance_Scorecard.xlsx` - Final Scorecard.
+- `performance_analysis.ipynb` - Python Jupyter Notebook.
 - `README.txt` - Documentation for running the solution.
 
 ## Installation
